@@ -1,0 +1,1 @@
+somthing happenedpython ex17.py ex12_sample.txt ex15_sample.txt
